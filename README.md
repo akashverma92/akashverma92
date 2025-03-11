@@ -1,33 +1,28 @@
-<!--
-**akashverma92/akashverma92** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+![GitHub Banner](https://github.com/akashverma92/akashverma92/blob/main/image.png?raw=true)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akashverma92.akashverma92" />
-
-<h1 align="center">     
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CCFF&lines=Hello+There!+👋;+I'm+Akash+Verma!;+Python+Developer!;+Machine+Learning+Enthusiast!;" /> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash!;+I'm+an+Android+&+Java+Developer!;" />
 </h1>
 
-<h3 align="center">A passionate Python Developer & Machine Learning Enthusiast</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Machine Learning & AI Projects**  
- 
- 🌱 I’m currently learning **Deep Learning & Data Engineering**  
-
- 💬 Ask me about **Python, Machine Learning, Pandas, Matplotlib, and Data Science... or anything [here](https://github.com/akashverma92/akashverma92/issues)**  
-
- ⚡ Fun fact **I love coding and exploring new technologies!**  
-
-</div>
+<h3 align="center">🚀 Android Developer | Java Developer | HTML & CSS Enthusiast</h3>
 
 ---
 
-<h2 align="center">📬 Connect with Me 📬</h2>
+<div align="center">
+ 
+ 🔝 I’m currently working with *Cybernerds KLU*
+ 
+ 🌱 I’m currently learning *Jetpack Compose, Firebase, Kotlin*
 
+💬 Ask me about *Android Development, Java, Firebase, HTML, CSS... or anything [here](https://github.com/akashverma92/akashverma92/issues)*
+
+⚡ Fun fact: *I love Mobile App Development & Automating Stuff!*
+
+ </div>
+ 
+---
+
+### 🌐 *Connect with me*
 <div align="center"> 
   <a href="mailto:akashverma92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,36 +31,48 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://akashverma92.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+## ⚒ *Tech Stack & Tools*
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,matplotlib,seaborn,scikit-learn,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase,html,css,git,vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,gradle,github" />
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+## 📊 *GitHub Stats & Activity*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashverma92&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashverma92&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akashverma92&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br>
+    <img src="https://streak-stats.demolab.com/?user=akashverma92&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
 
-<h2 align="center">📈 Machine Learning & Data Visualization 📈</h2>
+## 🏆 *GitHub Trophies*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akashverma92&theme=react-dark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akashverma92&theme=onedark" />
 </div>
 
+---
 
+## 🐍 *Eating My Contributions*
 
-⭐ **Show some love by starring my repositories!** ⭐
+<div align="center">
+    <img alt="snake eating my contributions" src="https://github.com/akashverma92/akashverma92/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+</div>
+
+---
+
+🌟 *Feel free to Star my repositories to support my work!* 🚀
