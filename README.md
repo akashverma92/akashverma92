@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/akash-verma92" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://akashverma92.github.io" target="_blank">
+  <a href="https://akash-portfolio-rose.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
