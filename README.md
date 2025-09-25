@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash!;+I'm+an+Android+&+Java+Developer!;" />
 </h1>
 
-<h3 align="center">🚀 Android Developer | Java Developer | HTML & CSS Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Developer | </h3>
 
 ---
 
