@@ -17,7 +17,7 @@
 
 💬 Ask me about *Full Stack Development, Java, Firebase, HTML, CSS... or anything [here](https://github.com/akashverma92/akashverma92/issues)*
 
-⚡ Fun fact: *I love Full stack Development & Automating Stuff!*
+⚡ Fun fact: *I love Full stack Development, & Automating Stuff!*
 
  </div>
  
