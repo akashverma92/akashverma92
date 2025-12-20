@@ -13,7 +13,7 @@
  
 
  
- 🌱 I’m currently learning *Jetpack Compose, Firebase, Kotlin*
+ 🌱 I’m currently learning *Node.js, Redux, Next.js, Convex DB, Deep Learning, AI Image Processing*
 
 💬 Ask me about *Full Stack Development, Java, Firebase, HTML, CSS... or anything [here](https://github.com/akashverma92/akashverma92/issues)*
 
