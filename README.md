@@ -17,7 +17,7 @@
 
 💬 Ask me about *React.js, MongoDB, Node.js, Java, HTML, CSS... or anything [here](https://github.com/akashverma92/akashverma92/issues)*
 
-⚡ Fun fact: *I love Full stack Development, & Automating Stuff!*
+⚡ Fun fact: *I love Full stack Development & Automating Stuff!*
 
  </div>
  
@@ -41,7 +41,7 @@
 ## ⚒ *Tech Stack & Tools*
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase,html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=Reactjs,java,MongoDb,firebase,html,css,git,vscode" />
     <br>
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,gradle,github" />
 </div>
