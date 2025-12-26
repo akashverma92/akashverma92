@@ -13,7 +13,7 @@
  
 
  
- 🌱 I’m currently learning *Node.js, Redux, Next.js, Convex DB, Deep Learning, AI Image Processing*
+ 🌱 I’m currently learning *Node.js, Redux, Next.js, MongoDB, Deep Learning, AI Image Processing*
 
 💬 Ask me about *React.js, MongoDB, Node.js, Java, HTML, CSS... or anything [here](https://github.com/akashverma92/akashverma92/issues)*
 
