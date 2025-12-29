@@ -41,7 +41,7 @@
 ## ⚒ *Tech Stack & Tools*
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Reactjs,java,MongoDb,firebase,html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,java,mongodb,firebase,html,css,git,vscode,docker" />
     <br>
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,gradle,github" />
 </div>
