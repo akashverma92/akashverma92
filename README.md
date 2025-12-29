@@ -41,9 +41,9 @@
 ## ⚒ *Tech Stack & Tools*
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,java,mongodb,firebase,html,css,git,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,html,css,tailwind,git,vscode,docker" />
     <br>
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,gradle,github" />
+    <img src="https://skillicons.dev/icons?i=java,postman,redux,vercel,sqlite,mysql,gradle,github,windows" />
 </div>
 
 ---
